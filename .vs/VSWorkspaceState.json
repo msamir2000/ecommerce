@@ -2,9 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\ecommerce",
-    "\\ecommerce\\static",
-    "\\ecommerce\\static\\images"
+    "\\ecommerce\\notifications",
+    "\\ecommerce\\templates",
+    "\\ecommerce\\templates\\oscar",
+    "\\ecommerce\\templates\\oscar\\communication",
+    "\\ecommerce\\templates\\oscar\\communication\\emails"
   ],
-  "SelectedNode": "\\ecommerce\\static\\images\\favicon.ico",
+  "SelectedNode": "\\ecommerce\\notifications\\notifications.py",
   "PreviewInSolutionExplorer": false
 }
