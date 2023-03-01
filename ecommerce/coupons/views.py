@@ -130,7 +130,7 @@ class CouponOfferView(TemplateView):
 
         if context_data and 'error' not in context_data:
             context_data.update({
-                'offer_app_page_heading': _('Welcome to edX'),
+                'offer_app_page_heading': _('Welcome to LP+ADOPT'),
                 'offer_app_page_heading_message': _('Please choose from the courses selected by your '
                                                     'organization to start learning.')
             })
@@ -212,7 +212,7 @@ class CouponRedeemView(EdxOrderPlacementMixin, APIView):
                 template_name,
                 {
                     'error': _('This coupon is not valid for purchasing a program. Try using this on an individual '
-                               'course in the program. If you need assistance, contact edX support.')
+                               'course in the program. If you need assistance, contact LP+ADOPT support.')
                 }
             )
 
@@ -312,7 +312,7 @@ class EnrollmentCodeCsvView(View):
         """
         Creates a CSV for the order. The structure of the CSV looks like this:
 
-           > Order Number:,EDX-100001
+           > Order Number:,LPADOPT-100001
 
            > Seat in Demo with verified certificate (and ID verification)
            > Code,Redemption URL
