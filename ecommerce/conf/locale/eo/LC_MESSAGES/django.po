@@ -2656,7 +2656,7 @@ msgstr ""
 "äççöünt änd tö prévént fräüd. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт #"
 
 #: ecommerce/templates/edx/error.html
-msgid "If you need assistance, contact edX support."
+msgid "If you need assistance, contact LP+ADOPT support."
 msgstr ""
 "Ìf ýöü nééd ässïstänçé, çöntäçt édX süppört. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, "
 "¢σηѕє¢тєтυя #"

@@ -439,7 +439,7 @@ msgid "Reports"
 msgstr ""
 
 #: templates/coupons/_offer_error.html
-msgid "If you need assistance, contact edX support."
+msgid "If you need assistance, contact LP+ADOPT support."
 msgstr ""
 
 #: templates/coupons/_offer_success.html

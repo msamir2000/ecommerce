@@ -2265,7 +2265,7 @@ msgid ""
 msgstr "Unahitajika kuamsha akaunti yako ili kuhakikisha ni wewe uliyetengeneza hii akaunti na ili uzuie uhalifu."
 
 #: ecommerce/templates/edx/error.html:17
-msgid "If you need assistance, contact edX support."
+msgid "If you need assistance, contact LP+ADOPT support."
 msgstr "Kama unahitaji msaada, fanya mawasiliano kupata msaada wa edX."
 
 #: ecommerce/templates/edx/partials/_administration_menu.html:6

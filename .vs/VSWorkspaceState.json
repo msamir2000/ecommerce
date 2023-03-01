@@ -2,12 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\ecommerce",
-    "\\ecommerce\\notifications",
+    "\\ecommerce\\credit",
+    "\\ecommerce\\static",
+    "\\ecommerce\\static\\images",
     "\\ecommerce\\templates",
+    "\\ecommerce\\templates\\coupons",
     "\\ecommerce\\templates\\oscar",
     "\\ecommerce\\templates\\oscar\\communication",
     "\\ecommerce\\templates\\oscar\\communication\\emails"
   ],
-  "SelectedNode": "\\ecommerce\\notifications\\notifications.py",
   "PreviewInSolutionExplorer": false
 }
