@@ -2291,7 +2291,7 @@ msgid ""
 msgstr "نطلب منك تفعيل حسابك للتأكد من هويتك وبالتالي منع الاحتيال."
 
 #: ecommerce/templates/edx/error.html:17
-msgid "If you need assistance, contact edX support."
+msgid "If you need assistance, contact LP+ADOPT support."
 msgstr "يُرجى التواصل مع فريق دعم edX في حال احتجت للمساعدة"
 
 #: ecommerce/templates/edx/partials/_administration_menu.html:6

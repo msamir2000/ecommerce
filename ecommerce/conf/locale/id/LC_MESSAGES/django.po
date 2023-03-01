@@ -2276,7 +2276,7 @@ msgid ""
 msgstr "Kami meminta Anda untuk mengaktivasi akun Anda untuk memastikan bahwa memang Anda yang membuat akun ini dan untuk mencegah penyalahgunaan."
 
 #: ecommerce/templates/edx/error.html:17
-msgid "If you need assistance, contact edX support."
+msgid "If you need assistance, contact LP+ADOPT support."
 msgstr "Jika Anda memerlukan bantuan, hubungi bantuan edX."
 
 #: ecommerce/templates/edx/partials/_administration_menu.html:6

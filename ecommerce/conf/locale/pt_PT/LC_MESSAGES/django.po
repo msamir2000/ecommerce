@@ -2287,7 +2287,7 @@ msgid ""
 msgstr "Pedimos-lhe que ative a sua conta para garantir que é realmente você a criar a conta e evitar fraudes."
 
 #: ecommerce/templates/edx/error.html:17
-msgid "If you need assistance, contact edX support."
+msgid "If you need assistance, contact LP+ADOPT support."
 msgstr "Se precisar de assistência, contacte o apoio da edX."
 
 #: ecommerce/templates/edx/partials/_administration_menu.html:6

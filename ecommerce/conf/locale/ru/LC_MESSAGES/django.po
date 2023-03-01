@@ -2288,7 +2288,7 @@ msgid ""
 msgstr "Вам необходимо активировать свою учётную запись, чтобы предотвратить создание фальшивых учётных записей от вашего имени."
 
 #: ecommerce/templates/edx/error.html:17
-msgid "If you need assistance, contact edX support."
+msgid "If you need assistance, contact LP+ADOPT support."
 msgstr "Если вам нужна помощь, свяжитесь с техподдержкой edX."
 
 #: ecommerce/templates/edx/partials/_administration_menu.html:6

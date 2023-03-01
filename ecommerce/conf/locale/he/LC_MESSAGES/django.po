@@ -2282,7 +2282,7 @@ msgid ""
 msgstr ""
 
 #: ecommerce/templates/edx/error.html:17
-msgid "If you need assistance, contact edX support."
+msgid "If you need assistance, contact LP+ADOPT support."
 msgstr "אם אתם זקוקים לעזרה, צרו קשר עם צוות התמיכה של edX."
 
 #: ecommerce/templates/edx/partials/_administration_menu.html:6

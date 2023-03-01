@@ -2293,7 +2293,7 @@ msgid ""
 msgstr "我们要求您激活账号，以确保此账号由您本人注册并防止欺诈行为。"
 
 #: ecommerce/templates/edx/error.html:17
-msgid "If you need assistance, contact edX support."
+msgid "If you need assistance, contact LP+ADOPT support."
 msgstr "如需帮助，请联系edX客服。"
 
 #: ecommerce/templates/edx/partials/_administration_menu.html:6

@@ -2284,7 +2284,7 @@ msgid ""
 msgstr "Bu hesabı gerçekten sizin açtığınızdan emin olmak ve olası sahtekârlıkları önleyebilmek için sizden bunu rica ediyoruz."
 
 #: ecommerce/templates/edx/error.html:17
-msgid "If you need assistance, contact edX support."
+msgid "If you need assistance, contact LP+ADOPT support."
 msgstr "Yardıma ihtiyacınız varsa, lütfen edX ekibiyle iletişime geçin."
 
 #: ecommerce/templates/edx/partials/_administration_menu.html:6
